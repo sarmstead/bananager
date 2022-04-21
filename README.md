@@ -1,6 +1,10 @@
 # Bananager 🍌
 There are times in life where you have to just try something for yourself. This is one of those times.
 
+## Set Up Your Local Bananager Environment
+### Database
+The Bananager uses `Postgres` as its database. You'll need to set up development and test databases on your local machine using [Redwood's Local Postgres Setup instructions](https://redwoodjs.com/docs/local-postgres-setup).
+
 ## Built with Redwood
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!
